@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cadefb0f1f6f18cc4436e26ec0d6aff5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\786b754f448ab5278364cf4712fe9a49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ed46c81333cfe73542a7ba5b898d0eb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\b56b88b83ef1701449d9e6d730f6b209\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7c43c34868215b1832b548cab5eec85a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ffcb7b19050a8fdba22148c3900f7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\13a2f87f613d3a7c2c4bf36440c38d52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24c2f7d589699167e17ce2f2f14e6857\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c7ae027a74d83c7c6fa47cdf049e6795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\78ce123f44543a1a5644aed4fea316a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ecaefa1f1d9434444448092abae4eb76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9e9a93d385b0265a1c13a9e36746395f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d145cc8b17981c4eb7924e96f063a39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c9d011d81756e0ba9dd0ac8e6222f9c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51e6468df451bec95b9797a27208a581\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3d4721515175c15cb4af3bd6cec21d25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff5bca718580ec12f77d4d7bf67ab09a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\36ea66065ea74dfcefc0a7a58e41e7e8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:10:22-72
+application
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:12:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ed46c81333cfe73542a7ba5b898d0eb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ed46c81333cfe73542a7ba5b898d0eb\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.sith.mvpeg.MainActivity
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.sith.mvpeg.Class.BaseActivity
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:28:19-53
+activity#com.example.sith.mvpeg.Module.Login.LoginActivity
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:29:19-61
+activity#com.example.sith.mvpeg.Module.Login.LoginBaseActivity
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:36:19-65
+activity#com.example.sith.mvpeg.Module.DeviceInfo.DeviceInfoActivity
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:37:9-83
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:37:19-71
+activity#com.example.sith.mvpeg.Module.DeviceInfo.DeviceBaseActivity
+ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:38:9-74
+	android:name
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml:38:19-71
+uses-sdk
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cadefb0f1f6f18cc4436e26ec0d6aff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cadefb0f1f6f18cc4436e26ec0d6aff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\786b754f448ab5278364cf4712fe9a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\786b754f448ab5278364cf4712fe9a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ed46c81333cfe73542a7ba5b898d0eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0ed46c81333cfe73542a7ba5b898d0eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\b56b88b83ef1701449d9e6d730f6b209\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\b56b88b83ef1701449d9e6d730f6b209\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7c43c34868215b1832b548cab5eec85a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7c43c34868215b1832b548cab5eec85a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ffcb7b19050a8fdba22148c3900f7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ffcb7b19050a8fdba22148c3900f7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\13a2f87f613d3a7c2c4bf36440c38d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\13a2f87f613d3a7c2c4bf36440c38d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24c2f7d589699167e17ce2f2f14e6857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24c2f7d589699167e17ce2f2f14e6857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c7ae027a74d83c7c6fa47cdf049e6795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c7ae027a74d83c7c6fa47cdf049e6795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\78ce123f44543a1a5644aed4fea316a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\78ce123f44543a1a5644aed4fea316a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ecaefa1f1d9434444448092abae4eb76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ecaefa1f1d9434444448092abae4eb76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9e9a93d385b0265a1c13a9e36746395f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9e9a93d385b0265a1c13a9e36746395f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d145cc8b17981c4eb7924e96f063a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d145cc8b17981c4eb7924e96f063a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c9d011d81756e0ba9dd0ac8e6222f9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c9d011d81756e0ba9dd0ac8e6222f9c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51e6468df451bec95b9797a27208a581\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51e6468df451bec95b9797a27208a581\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3d4721515175c15cb4af3bd6cec21d25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3d4721515175c15cb4af3bd6cec21d25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff5bca718580ec12f77d4d7bf67ab09a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff5bca718580ec12f77d4d7bf67ab09a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\36ea66065ea74dfcefc0a7a58e41e7e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sunil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\36ea66065ea74dfcefc0a7a58e41e7e8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sunil\Desktop\OnGoing\MVP\app\src\main\AndroidManifest.xml
