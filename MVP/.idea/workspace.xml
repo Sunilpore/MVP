@@ -35,20 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/LoginActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="459">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeviceInfoPresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/presenter/DeviceInfoPresenter.java">
+      <file leaf-file-name="BaseActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Class/BaseActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="170">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -56,30 +56,37 @@
       <file leaf-file-name="DeviceInfoActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceInfoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+            <state relative-caret-position="68">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="e#1667#1668#0" expanded="true" />
+                <element signature="e#1735#1736#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_device_info.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_device_info.xml">
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeviceInfo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/abstract_method/MethodClass/DeviceInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-            </state>
           </provider>
         </entry>
       </file>
@@ -2372,8 +2379,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/view/ILoginView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/view/ILoginViewCallBack.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/view/IDeviceInfoView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/LoginActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Class/LoginPresenter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/model/DeviceInfoBaseModel.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/model/DeviceInfoBaseInterface.java" />
@@ -2383,15 +2388,18 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/view/IDeviceInfoViewCallBack.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/presenter/LoginPresenter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/utils/permission/PermissionUtils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/utils/constants/Constants.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceBaseActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/interfaces/DeviceInfoBaseInterface.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/presenter/IDeviceInfoInterface.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/presenter/DeviceInfoPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceInfoActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_device_info.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/abstract_method/MethodClass/DeviceInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceInfoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Class/BaseActivity.java" />
       </list>
     </option>
   </component>
@@ -2404,7 +2412,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2417,7 +2425,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2682,13 +2690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Class/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/android.jar!/java/lang/Override.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -2792,13 +2793,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/interfaces/IDeviceParam.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="97" column="52" lean-forward="true" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -2828,28 +2822,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/view/IDeviceInfoViewCallBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/utils/permission/PermissionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/sith/mvpeg/Module/DeviceInfo/DeviceInfoActivity_ViewBinding.java">
@@ -2908,31 +2885,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceBaseActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/abstract_method/MethodClass/DeviceInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/presenter/DeviceInfoPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceInfoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+        <state relative-caret-position="493">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -2946,10 +2902,69 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/abstract_method/MethodClass/DeviceInfo.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/view/IDeviceInfoViewCallBack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/presenter/DeviceInfoPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="67" column="52" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceBaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/Login/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Module/DeviceInfo/DeviceInfoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sith/mvpeg/Class/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>

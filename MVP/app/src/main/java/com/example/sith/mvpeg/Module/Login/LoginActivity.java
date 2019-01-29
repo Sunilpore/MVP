@@ -5,6 +5,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.sith.mvpeg.Class.BaseActivity;
 import com.example.sith.mvpeg.Module.Login.interfaces.LoginGatherInterface;
 import com.example.sith.mvpeg.Module.Login.presenter.ILoginPresenter;
 import com.example.sith.mvpeg.Module.Login.presenter.LoginPresenter;
@@ -12,7 +13,7 @@ import com.example.sith.mvpeg.Module.Login.view.ILoginViewCallBack;
 import com.example.sith.mvpeg.R;
 import com.example.sith.mvpeg.utils.LogHelper;
 
-public class LoginActivity extends LoginBaseActivity implements ILoginViewCallBack,LoginGatherInterface.View {
+public class LoginActivity extends BaseActivity implements ILoginViewCallBack,LoginGatherInterface.View {
 
     EditText userName,password;
     Button submit;

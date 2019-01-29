@@ -78,26 +78,10 @@ public class MainActivity <T> extends BaseActivity implements LoginCallback {
             msg.setText(editMsg);
         }
 
-        String manufacturer = Build.MANUFACTURER;
-        String model = Build.MODEL;
-
-        Field[] fields = Build.VERSION_CODES.class.getFields();
-        String osName = fields[Build.VERSION.SDK_INT + 1].getName();
-
-        msg.setText("manufacturer: "+manufacturer+"\t model: "+model+"\t os: "+osName);
-
-        MyAbstract myAbstract = Creator.getPermission("Permission");
-
-        DeviceInfoAccess deviceInfoAccess = myAbstract.getDevicePara("AccessDeviceInfo");
-
         ActivityManager am = (ActivityManager) this.getSystemService(Activity.ACTIVITY_SERVICE);
         String MyClassName = am.getRunningTasks(1).get(0).topActivity.getClassName();
 
         LogHelper.showLogData(MyClassName);
-
-        for(String s :deviceInfoAccess.getIMEI(this)){
-            Log.d("myTag","imei: "+s);
-        }
 
         Toast.makeText(this, "Status: " + loginCallback, Toast.LENGTH_SHORT).show();
     }

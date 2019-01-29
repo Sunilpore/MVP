@@ -7,6 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.example.sith.mvpeg.Class.BaseActivity;
 import com.example.sith.mvpeg.Module.DeviceInfo.interfaces.DeviceInfoBaseInterface;
 import com.example.sith.mvpeg.Module.DeviceInfo.model.DeviceInfoModel;
 import com.example.sith.mvpeg.Module.DeviceInfo.presenter.DeviceInfoPresenter;
@@ -18,7 +19,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-public class DeviceInfoActivity extends DeviceBaseActivity implements IDeviceInfoViewCallBack, DeviceInfoBaseInterface.View {
+public class DeviceInfoActivity extends BaseActivity implements IDeviceInfoViewCallBack, DeviceInfoBaseInterface.View {
 
 
    // @BindView(R.id.device_manufacturer_details)
@@ -52,7 +53,6 @@ public class DeviceInfoActivity extends DeviceBaseActivity implements IDeviceInf
 
     @Override
     protected void init() {
-        super.init();
         devicePresenter = new DeviceInfoPresenter(this,this);
     }
 
